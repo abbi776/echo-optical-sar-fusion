@@ -664,23 +664,14 @@ The implementation in this repository was adapted specifically for the optical�
 
 ---
 
-# 📖 Citation
+# 🔒 Triple-Blind Review
 
-This repository accompanies an **anonymous manuscript currently under review**.
+This repository accompanies a manuscript submitted under triple-blind review.
 
-Citation information, author details and the permanent public repository location will be added following completion of the anonymous review process.
+To preserve reviewer anonymity requirements:
 
----
+- author names and affiliations are omitted
+- contact information and personal account identifiers are omitted
+- identifying repository links and local filesystem paths have been removed
 
-# 🔒 Anonymous Review
-
-To preserve double-blind review:
-
-- author names are omitted
-- affiliations are omitted
-- contact information is omitted
-- personal account identifiers are omitted
-- local filesystem paths have been removed
-- identifying repository links are omitted
-
-A de-anonymised version of the repository can be released following acceptance.
+A de-anonymised version of the repository will be released following acceptance.
