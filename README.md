@@ -4,7 +4,7 @@ Reproducible workflow for evaluating and interpreting **multi-seasonal Sentinel-
 
 The framework, referred to as **ECHO**, combines Sentinel-1 backscatter, polarisation and texture predictors with Sentinel-2 spectral bands and vegetation/water indices. Random Forest (RF) and XGBoost models are evaluated under spatially independent **Leave-One-Region-Out (LORO)** validation, while SHAP is used to interpret sensor contributions and derive a compact fusion model.
 
-This repository accompanies an **anonymous manuscript submission** and contains the Google Earth Engine preprocessing code, Python analysis pipeline, and publication-figure generation code needed to reproduce the main workflow.
+This repository accompanies the accepted paper ECHO: An Interpretable Optical–SAR Fusion Framework for Hydrology-Sensitive Mapping of Floodplain Woody Vegetation.
 
 ---
 
@@ -663,15 +663,3 @@ Relevant methodological sources are cited in the accompanying manuscript.
 The implementation in this repository was adapted specifically for the optical–SAR fusion and floodplain vegetation classification workflow described here.
 
 ---
-
-# 🔒 Triple-Blind Review
-
-This repository accompanies a manuscript submitted under triple-blind review.
-
-To preserve reviewer anonymity requirements:
-
-- author names and affiliations are omitted
-- contact information and personal account identifiers are omitted
-- identifying repository links and local filesystem paths have been removed
-
-A de-anonymised version of the repository will be released following acceptance.
