@@ -25,7 +25,7 @@ This repository accompanies the accepted paper ECHO: An Interpretable Optical–
 ## 📂 Repository Structure
 
 ```text
-echo-review-code/
+echo-optical-sar-fusion/
 │
 ├── gee/                                  # Google Earth Engine preprocessing
 │   ├── 00_utils.js
@@ -63,7 +63,7 @@ echo-review-code/
 
 ## ⚙️ Installation
 
-Clone the anonymous review repository and create a Python environment:
+Clone the repository and create a Python environment:
 
 ```bash
 git clone https://github.com/abbi776/echo-optical-sar-fusion.git
@@ -646,7 +646,7 @@ The workflow uses publicly available satellite products accessed through Google 
 - Sentinel-2 Level-2A surface reflectance
 - Google Cloud Score+
 
-Reference polygons, wetland boundaries, ancillary imagery and hydrological observations required for the complete study are not redistributed in this anonymous review repository where redistribution or review-anonymity constraints apply.
+Large reference datasets, wetland boundaries, ancillary imagery and hydrological records used in the study are not included in this repository because of their size.
 
 ---
 
