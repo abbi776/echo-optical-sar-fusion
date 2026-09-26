@@ -663,3 +663,33 @@ Relevant methodological sources are cited in the accompanying manuscript.
 The implementation in this repository was adapted specifically for the optical–SAR fusion and floodplain vegetation classification workflow described here.
 
 ---
+
+## 🧑‍🤝‍🧑 Contributing
+
+Contributions are welcome.
+
+Please open an issue or submit a pull request if you would like to:
+
+- improve the Sentinel-1 or Sentinel-2 preprocessing workflow
+- extend ECHO to additional floodplains, wetlands, or vegetation classes
+- evaluate alternative optical–SAR fusion strategies
+- add new validation, interpretability, or temporal-transfer diagnostics
+- improve reproducibility, documentation, or figure-generation workflows
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 📧 Contact
+
+For questions, collaboration, or reproducibility enquiries:
+
+**Abdullah Toqeer**  
+PhD Candidate, Charles Sturt University  
+Email: [toqeerabdullah776@gmail.com](mailto:toqeerabdullah776@gmail.com)
+
+Repository: [https://github.com/abbi776/echo-optical-sar-fusion](https://github.com/abbi776/echo-optical-sar-fusion)
