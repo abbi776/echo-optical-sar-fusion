@@ -66,8 +66,8 @@ echo-review-code/
 Clone the anonymous review repository and create a Python environment:
 
 ```bash
-git clone <anonymous-repository-url>
-cd echo-review-code
+git clone https://github.com/abbi776/echo-optical-sar-fusion.git
+cd echo-optical-sar-fusion
 
 python -m venv venv
 ```
